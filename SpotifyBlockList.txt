@@ -1,4 +1,7 @@
 # ||spclient.wg.spotify.com^ # might block the entire Spotify app from working too
+||spclient.wg.spotify.com/ads/*
+||spclient.wg.spotify.com/ad-logic/*
+||spclient.wg.spotify.com/gabo-receiver-service/*
 ||media-match.com^
 ||adclick.g.doublecklick.net^
 ||www.googleadservices.com^
